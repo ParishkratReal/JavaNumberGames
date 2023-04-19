@@ -1,2 +1,2 @@
 # Guess_1_to_100
-Let the computer guess your number!!
+The computer guesses your number in one program whereas you guess the computer's chosen number in other program!!
